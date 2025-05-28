@@ -1,0 +1,36 @@
+{
+    "Detected Devices": {
+        "CPUs": [
+            "Apple M1"
+        ],
+        "GPUs": [
+            "Apple M1"
+        ],
+        "Network Cards": [
+            "en3",
+            "en4",
+            "en0",
+            "en1",
+            "en2",
+            "bridge0"
+        ]
+    },
+    "Test Results": [
+        "Tested CPU: Apple M1 \u2014 Cores: 8 \u2014 Status: OK",
+        "Measured power usage of Apple M1 \u2014 Simulated: 15W",
+        "Tested GPU: Apple M1 \u2014 Metal Support: Unknown",
+        "Measured power usage of Apple M1 \u2014 Simulated: 15W",
+        "Tested Network Card: en3 \u2014 Ping Success \u2705",
+        "Measured power usage of en3 \u2014 Simulated: 15W",
+        "Tested Network Card: en4 \u2014 Ping Success \u2705",
+        "Measured power usage of en4 \u2014 Simulated: 15W",
+        "Tested Network Card: en0 \u2014 Ping Success \u2705",
+        "Measured power usage of en0 \u2014 Simulated: 15W",
+        "Tested Network Card: en1 \u2014 Ping Success \u2705",
+        "Measured power usage of en1 \u2014 Simulated: 15W",
+        "Tested Network Card: en2 \u2014 Ping Success \u2705",
+        "Measured power usage of en2 \u2014 Simulated: 15W",
+        "Tested Network Card: bridge0 \u2014 Ping Success \u2705",
+        "Measured power usage of bridge0 \u2014 Simulated: 15W"
+    ]
+}

@@ -1,0 +1,17 @@
+--- Compatibility Report ---
+Tested CPU: Apple M1 — Cores: 8 — Status: OK
+Measured power usage of Apple M1 — Simulated: 15W
+Tested GPU: Apple M1 — Metal Support: Unknown
+Measured power usage of Apple M1 — Simulated: 15W
+Tested Network Card: en3 — Ping Success ✅
+Measured power usage of en3 — Simulated: 15W
+Tested Network Card: en4 — Ping Success ✅
+Measured power usage of en4 — Simulated: 15W
+Tested Network Card: en0 — Ping Success ✅
+Measured power usage of en0 — Simulated: 15W
+Tested Network Card: en1 — Ping Success ✅
+Measured power usage of en1 — Simulated: 15W
+Tested Network Card: en2 — Ping Success ✅
+Measured power usage of en2 — Simulated: 15W
+Tested Network Card: bridge0 — Ping Success ✅
+Measured power usage of bridge0 — Simulated: 15W
